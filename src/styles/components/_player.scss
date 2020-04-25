@@ -1,0 +1,17 @@
+.player_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5rem;
+}
+.video_container {
+  width: 70rem;
+  height: 30rem;
+  border: 1px solid #f1f1f1;
+  margin-bottom: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
